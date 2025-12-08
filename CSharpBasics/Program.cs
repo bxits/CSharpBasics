@@ -22,8 +22,8 @@
             ///Geben Sie die Namen zeilenweise auf der Console aus.
             ///Schreiben sie hierfür eine eigene Methode.
 
-            ///Sortieren Sie die Namen manuell mittels einer for-Schleife.
-            ///
+            ///Sortieren Sie die Namen alphapetisch manuell mittels einer for-Schleife.
+            ///(Zunächst nur nach dem ersten Buchstaben)
 
             ///Sortieren Sie die Namen rückwärts mittels einer foreach-Schleife.
             ///
