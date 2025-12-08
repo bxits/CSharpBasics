@@ -28,7 +28,7 @@
             ///Sortieren Sie die Namen rückwärts mittels einer foreach-Schleife.
             ///
 
-            ///Erzeugen Sie eine zufällige Mischen mittels Random-Generator.
+            ///Erzeugen Sie eine zufällig gemischtes Array mittels Random-Generator.
             ///
 
             ///Higher-Oder-Functions
