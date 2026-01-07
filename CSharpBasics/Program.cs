@@ -1,4 +1,6 @@
-﻿namespace CSharpBasics
+﻿using System.Linq;
+
+namespace CSharpBasics
 {
     internal class Program
     {
@@ -40,8 +42,9 @@
             ///Wandeln Sie das Array in eine Liste um.
             ///Wandeln Sie das Array in ein Dictionary um.
             ///--> Nennen Sie den jeweiligen Vorteil/Nachteil und stellen Sie die Struktur der Daten dar.
+            names = names.OrderBy(name => name.Length).ToArray();
+            names = names.OrderBy(name => name).ToArray();
 
-
-        }
+            }
     }
 }
