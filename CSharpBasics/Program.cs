@@ -24,13 +24,13 @@ namespace CSharpBasics
             ///Geben Sie die Namen zeilenweise auf der Console aus.
             ///Schreiben sie hierfür eine eigene Methode.
 
-            ///Sortieren Sie die Namen manuell mittels einer for-Schleife.
-            ///
+            ///Sortieren Sie die Namen alphapetisch manuell mittels einer for-Schleife.
+            ///(Zunächst nur nach dem ersten Buchstaben)
 
             ///Sortieren Sie die Namen rückwärts mittels einer foreach-Schleife.
             ///
 
-            ///Erzeugen Sie eine zufällige Mischen mittels Random-Generator.
+            ///Erzeugen Sie eine zufällig gemischtes Array mittels Random-Generator.
             ///
 
             ///Higher-Oder-Functions
